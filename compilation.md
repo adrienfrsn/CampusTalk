@@ -1,0 +1,1 @@
+javac -d WEB-INF/classes -cp ../../lib/servlet-api.jar:../../lib/commons-lang3-3.17.0.jar:../../lib/commons-text-1.13.0.jar:../../lib/jackson-datatype-jsr310-2.13.0.jar:../../lib/jackson-annotations-2.15.3.jar:../../lib/jackson-core-2.15.3.jar:../../lib/jackson-databind-2.15.3.jar:../../lib/jackson-dataformat-xml-2.15.3.jar  WEB-INF/src/controleur/*.java WEB-INF/src/modele/*.java
